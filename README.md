@@ -8,6 +8,8 @@ This is a firefox extension that expands collapsed messages in Microsoft Teams W
 
 You can install from firefox official site.
 
+<https://addons.mozilla.org/ja/firefox/addon/teams-see-more/>
+
 ## Usage
 
 1. Show the context menu (normally right click) on Microsoft Teams Web.
